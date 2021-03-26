@@ -1,5 +1,8 @@
 #AMR - Nouveau projet d'Aide-Mémoire Pour la radio
 
+Ce projet prend la suite du projet "mémento de la radio" toujours disponible.
+Mais plus mise à jour
+
 Ce qui ne m'allait plus dans le mémento radio :
 - La difficulté de mises à jour.
 - L'épaisseur.
