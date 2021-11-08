@@ -1,4 +1,4 @@
-# ARM
+# AMR
 Aide Mémoire Radio (format A6)
 
 
